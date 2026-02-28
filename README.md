@@ -124,13 +124,11 @@ The project is structured for modularity and easy feature expansion.
 ## Screenshots
 
 <img width="159" height="329" alt="image" src="https://github.com/user-attachments/assets/cac9ba94-ff6b-471a-ba31-2fa349b6896e" />
-<img width="161" height="329" alt="image" src="https://github.com/user-attachments/assets/db5f6d3b-abac-4b7a-9d07-65a665089d4f" />
 <img width="160" height="327" alt="image" src="https://github.com/user-attachments/assets/68d17b76-1fec-47d6-b87f-652f4e5e0d30" />
 <img width="169" height="346" alt="image" src="https://github.com/user-attachments/assets/b02b1840-0361-4f58-b860-61e3a4b4b3e0" />
 <img width="169" height="341" alt="image" src="https://github.com/user-attachments/assets/4efdbc80-1f56-40ae-8e42-5a0358d96e24" />
 <img width="165" height="341" alt="image" src="https://github.com/user-attachments/assets/5076c07b-2b8a-431c-9d41-78ebef94a03f" />
-<img width="181" height="375" alt="image" src="https://github.com/user-attachments/assets/7d6d1345-fa6f-4f59-93e1-e0792a4c7dd5" />
-<img width="352" height="138" alt="image" src="https://github.com/user-attachments/assets/833ba981-8f84-480b-ab8b-dd1da40988fe" />
+
 
 
 
