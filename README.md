@@ -136,7 +136,7 @@ The project is structured for modularity and easy feature expansion.
 
 ##  Security & Confidentiality Notice
 
-Copyright (c) 2026 Spidey
+Copyright (c) 2026 Vishruth
 
 All Rights Reserved.
 
